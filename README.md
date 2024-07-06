@@ -1,1 +1,1 @@
-https://matveysiniy.github.io/rsschool-cvgit
+https://matveysiniy.github.io/rsschool-cv
