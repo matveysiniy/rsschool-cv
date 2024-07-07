@@ -1,0 +1,35 @@
+@font-face {
+    font-family: Lato;
+    src: url("assets/fonts/Lato-Black.ttf");
+}
+
+p {
+    color: black;
+}
+
+html {
+
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Roboto';
+    background: -moz-linear-gradient(to bottom, #FFFFFF, #ffee00);
+    background: linear-gradient(to bottom, #FFFFFF, #00b7ff);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+th, td {
+    padding: 10px;
+}
+
+.footer {
+    position:-webkit-sticky
+    bottom: 0;
+    left: 0;
+    z-index: 0;
+}
+
