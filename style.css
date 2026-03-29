@@ -12,7 +12,7 @@ html {
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Lato', sans-serif;
     background: linear-gradient(to bottom, #FFFFFF, #00b7ff);
 }
 
@@ -28,5 +28,21 @@ th, td {
     position: sticky;
     bottom: 0;
     left: 0;
-    z-index: 0;
+}
+
+.profile-table {
+    border-spacing: 20px;
+}
+
+.profile-photo {
+    width: 75%;
+    height: auto;
+}
+
+.skills-table {
+    border-spacing: 10px;
+}
+
+.footer-logo {
+    width: 45px;
 }
