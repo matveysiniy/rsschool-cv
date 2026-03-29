@@ -39,10 +39,12 @@ th, td {
     height: auto;
 }
 
-.skills-table {
-    border-spacing: 10px;
-}
-
 .footer-logo {
     width: 45px;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
